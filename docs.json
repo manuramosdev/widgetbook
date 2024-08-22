@@ -93,7 +93,8 @@
       [
         ["Overview", "/widgetbook-cloud/overview"],
         ["Hosting", "/widgetbook-cloud/hosting"],
-        ["Reviews", "/widgetbook-cloud/reviews"]
+        ["Reviews", "/widgetbook-cloud/reviews"],
+        ["Multi Snapshot", "/widgetbook-cloud/multi-snapshot"]
       ]
     ],
     ["CLI", [["Overview", "/widgetbook-cli/overview"]]],
