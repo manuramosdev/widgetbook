@@ -1,3 +1,7 @@
+## Unreleased
+
+- **FEAT**: Support Multi Snapshot for addons. For more information, check our [docs](https://docs.widgetbook.io/widgetbook-cloud/multi-snapshot). ([#1239](https://github.com/widgetbook/widgetbook/pull/1239))
+
 ## 3.3.0
 
 - **REFACTOR**: Speed up the creation of build drafts, by reducing the payload size. ([#1232](https://github.com/widgetbook/widgetbook/pull/1232))
